@@ -1,0 +1,15 @@
+.description {
+    border: 1px solid black;
+    margin: 0 0 20px;
+    padding: 5px 20px;
+    line-height: 2em;
+    display: inline-block;
+}
+
+.result {
+    border: 1px solid black;
+    width: 400px;
+    height: 150px;
+    margin: 20px;
+    padding: 5px 20px;
+}
